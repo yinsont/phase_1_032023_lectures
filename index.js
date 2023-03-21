@@ -1,2 +1,3 @@
-console.log("Hello World");
+
+console.log(document);  //Logs HTML code
 
